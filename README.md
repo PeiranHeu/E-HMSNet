@@ -6,10 +6,9 @@
    
 # Dataset
 1. [PST900](https://github.com/ShreyasSkandanS/pst900_thermal_rgb) [1]
-2. UWS dataset
+2. [UWS dataset](https://drive.google.com/file/d/1gz93mDuhUG3gUQG2BsF4pRFbYcCz2nuS/view?usp=sharing)
 
 [1] Shivakumar S S, Rodrigues N, Zhou A, et al. Pst900: Rgb-thermal calibration, dataset and segmentation network[C]//2020 IEEE international conference on robotics and automation (ICRA). IEEE, 2020: 9441-9447.
-
 
 # Training
 1. Install '[apex](https://github.com/NVIDIA/apex)'.
